@@ -1,0 +1,22 @@
+/*to consider: how to make different images different sizes, add logos, make side bar, etc. also fancy animations, etc. */
+
+/*ideas: sunset colors! https://coolors.co/palette/ffb5a7-fcd5ce-f8edeb-f9dcc4-fec89a */
+
+/* pic to be added later
+img {
+  width: 200px;
+}
+*/
+
+body {
+  text-align: center;
+  /* choose a nicer font later */
+  font-family: 'Arial';
+  background: cornsilk;
+  color: chocolate;
+}
+
+header {
+  text-align: center;
+  font-family: 'Arial';
+}

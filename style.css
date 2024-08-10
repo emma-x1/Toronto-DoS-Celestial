@@ -2,21 +2,31 @@
 
 /*ideas: sunset colors! https://coolors.co/palette/ffb5a7-fcd5ce-f8edeb-f9dcc4-fec89a */
 
-/* pic to be added later
 img {
   width: 200px;
+  height: 150px;
 }
-*/
+
 
 body {
   text-align: center;
-  /* choose a nicer font later */
-  font-family: 'Arial';
-  background: cornsilk;
-  color: chocolate;
+  font-family: "Spectral", sans-serif;
+  font-style: normal;
+  background: #d4afea;
+  color: #ffffff;
 }
 
-header {
+
+h1 {
   text-align: center;
-  font-family: 'Arial';
+  font-family: "Karla", serif;
+  font-style: normal;
+  font-weight: 200;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Karla", serif;
+  font-style: normal;
+  
 }

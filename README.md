@@ -1,1 +1,1 @@
-starting to code + making a dos website for toronto!
+stay tuned... days of service is coming to toronto!

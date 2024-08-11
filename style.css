@@ -1,12 +1,17 @@
 /*to consider: how to make different images different sizes, add logos, make side bar, etc. also fancy animations, etc. */
 
-/*ideas: sunset colors! https://coolors.co/palette/ffb5a7-fcd5ce-f8edeb-f9dcc4-fec89a */
+/*for text */
 
-img {
+.img1 {
   width: 200px;
   height: 150px;
+  border-radius: 8px;
 }
 
+.headImage {
+  max-width: 100%;
+  height: auto;
+}
 
 body {
   text-align: center;
@@ -28,5 +33,28 @@ h2 {
   text-align: center;
   font-family: "Karla", serif;
   font-style: normal;
-  
+}
+
+/* for table */
+
+table, th, td{
+  border: 1px solid;
+}
+
+td {
+  padding:8px;
+  text-align: left;
+}
+
+tr:nth-child(even) {
+  background-color: #c7a4e5;
+}
+
+tr:hover {
+  background-color: #a180da;
+}
+
+table {
+  border-collapse: collapse;
+  width = 100%
 }

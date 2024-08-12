@@ -10,7 +10,15 @@
 
 .headImage {
   max-width: 100%;
-  height: auto;
+  max-height: 200px;
+  object-fit: cover;
+}
+
+.div1 {
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 8px;
+  background: #bc87d8
 }
 
 body {
@@ -27,6 +35,7 @@ h1 {
   font-family: "Karla", serif;
   font-style: normal;
   font-weight: 200;
+  margin: 30px
 }
 
 h2 {

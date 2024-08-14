@@ -18,30 +18,31 @@
   border-style: solid;
   border-width: 5px;
   border-radius: 8px;
-  background: #bc87d8
 }
 
 body {
   text-align: center;
   font-family: "Spectral", sans-serif;
   font-style: normal;
-  background: #d4afea;
-  color: #ffffff;
+  background: #ffffff;
+  color: #b6a6e6;
 }
 
 
 h1 {
   text-align: center;
+  text-shadow: 2px 2px 10px #F4CDD8;
   font-family: "Karla", serif;
   font-style: normal;
   font-weight: 200;
-  margin: 30px
+  margin: 30px;
 }
 
 h2 {
   text-align: center;
   font-family: "Karla", serif;
   font-style: normal;
+  padding: 5px;
 }
 
 /* for table */
@@ -56,14 +57,42 @@ td {
 }
 
 tr:nth-child(even) {
-  background-color: #c7a4e5;
+  background-color: #eDE0F5;
 }
 
 tr:hover {
-  background-color: #a180da;
+  background-color: #aE80da;
 }
 
 table {
   border-collapse: collapse;
   width = 100%
 }
+
+/*for nav bar*/
+
+ul {
+  position: fixed;
+  z-index:1;
+  top: 0;
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #a37bdaff
+}
+
+li {
+  float: left;
+  display: block;
+  padding: 8px 10px;
+  text-align: center;
+}
+
+li:hover {
+  background-color: #F9F2F8
+}
+
+/* reference color palette 
+https://coolors.co/ffffff-b6a6e6-fee7ce-f4cdd8-ede0f5*/

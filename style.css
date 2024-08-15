@@ -45,6 +45,10 @@ h2 {
   padding: 5px;
 }
 
+footer {
+  background: #a37bdaff
+}
+
 /* for table */
 
 table, th, td{
@@ -92,6 +96,66 @@ li {
 
 li:hover {
   background-color: #F9F2F8
+}
+
+/*for heart*/
+.heart {
+  font-size: 15px;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.beat {
+  position: relative;
+  animation: beat 3s linear infinite;
+}
+
+.thump {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  animation: thump 3s linear infinite;
+}
+
+@keyframes beat {
+  0% {
+    transform: scale(1);
+  }
+  14% {
+    transform: scale(0.9);
+  }
+  21% {
+    transform: scale(1.1) skew(0.004turn)
+  }
+  28% {
+    transform: scale(1) skew(0.008turn);
+  }
+  35% {
+    transform: scale(1) skew(0)
+  }
+}
+
+@keyframes thump {
+  0% {
+    opacity: 0.5;
+    transform: scale(1);
+  }
+  14% {
+    opacity: 0.4;
+    transform: scale(0.8);
+  }
+  21% {
+    opacity: 0.4;
+    transform: scale(1.1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(3);
+  }
 }
 
 /* reference color palette 

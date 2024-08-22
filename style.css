@@ -1,4 +1,9 @@
-/*to consider: how to make different images different sizes, add logos, make side bar, etc. also fancy animations, etc. */
+/*for everything*/
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
 
 /*for text */
 
@@ -15,6 +20,7 @@
 }
 
 .div1 {
+  padding-top: 50px;
   border-style: solid;
   border-width: 5px;
   border-radius: 8px;
@@ -24,18 +30,27 @@ body {
   text-align: center;
   font-family: "Spectral", sans-serif;
   font-style: normal;
-  background: #ffffff;
+  background-color: white;
+  /*background-image: linear-gradient(to bottom, #e8c9e7, white);*/
   color: #b6a6e6;
 }
 
 
 h1 {
   text-align: center;
-  text-shadow: 2px 2px 10px #F4CDD8;
+  text-shadow: 5px 5px 10px #F4CDD8;
   font-family: "Karla", serif;
   font-style: normal;
   font-weight: 200;
   margin: 30px;
+}
+
+.header1 {
+  position: relative;
+  z-index: 5
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h2 {
@@ -43,16 +58,35 @@ h2 {
   font-family: "Karla", serif;
   font-style: normal;
   padding: 5px;
+  background: #170A1F;
+  border-radius: 100px;
 }
 
+h3 {
+  text-align: center;
+  font-family: "Karla", serif;
+  font-style: normal;
+  padding: 5px;
+}
+
+p {
+  margin: 15px;
+}
+
+/*for footer*/
+
 footer {
-  background: #a37bdaff
+  background: #a37bdaff;
+  padding: 10px;
 }
 
 /* for table */
 
 table, th, td{
   border: 1px solid;
+  margin: 30px;
+  max-width: 90%;
+  border-collapse: collapse;
 }
 
 td {
@@ -65,33 +99,40 @@ tr:nth-child(even) {
 }
 
 tr:hover {
-  background-color: #aE80da;
+  background-color: #ecd7f9;
 }
 
 table {
   border-collapse: collapse;
-  width = 100%
+  width: 100%
 }
 
 /*for nav bar*/
 
 ul {
   position: fixed;
-  z-index:1;
+  z-index:1000;
   top: 0;
+  left: 0;
   width: 100%;
-  list-style-type: none;
   margin: 0;
   padding: 0;
+  background-color: #a37bdaff;
+  list-style-type: none;
+  text-align: right;
   overflow: hidden;
-  background-color: #a37bdaff
+  line-height: 50px;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.2); 
 }
 
 li {
-  float: left;
-  display: block;
+  display: inline-block;
   padding: 8px 10px;
   text-align: center;
+}
+
+li a{
+  text-decoration: none;
 }
 
 li:hover {
@@ -157,6 +198,25 @@ li:hover {
     transform: scale(3);
   }
 }
+
+/*logo at top*/
+.hackclub-logo {
+    z-index: 1001;
+    position: relative;
+    max-width: 20%;
+    max-height: 10%;
+    margin-left: 0%;
+    margin-top: 0%;
+    background-color: transparent;
+    float: left;
+}
+
+ul::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 
 /* reference color palette 
 https://coolors.co/ffffff-b6a6e6-fee7ce-f4cdd8-ede0f5*/

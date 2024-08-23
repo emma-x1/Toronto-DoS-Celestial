@@ -28,7 +28,7 @@ html {
 
 body {
   text-align: center;
-  font-family: "Spectral", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   font-style: normal;
   background-color: white;
   /*background-image: linear-gradient(to bottom, #e8c9e7, white);*/
@@ -39,23 +39,23 @@ body {
 h1 {
   text-align: center;
   text-shadow: 5px 5px 10px #F4CDD8;
-  font-family: "Karla", serif;
+  font-family: "Iceland", serif;
   font-style: normal;
-  font-weight: 200;
+  font-weight: 600;
+  font-size: 80px;
   margin: 30px;
 }
 
 .header1 {
   position: relative;
-  z-index: 5
-  display: flex;
+  z-index: 5;
   justify-content: center;
   align-items: center;
 }
 
 h2 {
   text-align: center;
-  font-family: "Karla", serif;
+  font-family: "Iceland", serif;
   font-style: normal;
   padding: 5px;
   background: #170A1F;
@@ -64,7 +64,7 @@ h2 {
 
 h3 {
   text-align: center;
-  font-family: "Karla", serif;
+  font-family: "Iceland", serif;
   font-style: normal;
   padding: 5px;
 }
@@ -203,8 +203,8 @@ li:hover {
 .hackclub-logo {
     z-index: 1001;
     position: relative;
-    max-width: 20%;
-    max-height: 10%;
+    max-width: 100px;
+    max-height: 100px;
     margin-left: 0%;
     margin-top: 0%;
     background-color: transparent;

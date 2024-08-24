@@ -31,7 +31,8 @@ Celestial's website is the first one I've ever created from scratch! I explored 
 ## The Event
 We'll keep you updated with photos of our first event in August, as well as of our second event in October!
 
-
-
+## How You Can Use this Website!
+Feel free to take a look at what we've been up to - this site is deployed at https://emma-x1.github.io/Toronto-DoS-Celestial/.
+If you want to organize your own Days of Service account, reach out to Zenab at Hack Club (zenab@hackclub.com)!
 
 

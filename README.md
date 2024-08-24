@@ -20,11 +20,12 @@ A big shoutout to Hack Club for supporting us through every step of the way, and
 
 ## The Website
 Celestial's website is the first one I've ever created from scratch! I explored the basics of HTML and CSS, and learned about interesting features like creating animations and embedding links and images. Here's a couple pictures!
-<img src="https://github.com/user-attachments/assets/a7ba6b8a-8978-4723-952b-acd463e08cec" width="200">
-<img src="https://github.com/user-attachments/assets/5ba4fdb6-17c7-4188-98f8-1d9bea304335" width="200">
-<img src="https://github.com/user-attachments/assets/35c27a0c-fac1-4053-928a-796ed3907a76" width="200">
-<img src="https://github.com/user-attachments/assets/e5a2b7be-dfc7-44cb-b506-c87d2893f2f3" width="200">
-<img src="https://github.com/user-attachments/assets/3cdc5163-0868-4b34-9267-6027cd49736a" width="200">
+
+<img src="https://github.com/user-attachments/assets/a7ba6b8a-8978-4723-952b-acd463e08cec" height="200">
+<img src="https://github.com/user-attachments/assets/5ba4fdb6-17c7-4188-98f8-1d9bea304335" height="200">
+<img src="https://github.com/user-attachments/assets/35c27a0c-fac1-4053-928a-796ed3907a76" height="127">
+<img src="https://github.com/user-attachments/assets/e5a2b7be-dfc7-44cb-b506-c87d2893f2f3" height="127">
+<img src="https://github.com/user-attachments/assets/3cdc5163-0868-4b34-9267-6027cd49736a" height="127">
 
 
 ## The Event

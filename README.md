@@ -20,6 +20,12 @@ A big shoutout to Hack Club for supporting us through every step of the way, and
 
 ## The Website
 Celestial's website is the first one I've ever created from scratch! I explored the basics of HTML and CSS, and learned about interesting features like creating animations and embedding links and images. Here's a couple pictures!
+![image](https://github.com/user-attachments/assets/a7ba6b8a-8978-4723-952b-acd463e08cec)
+![image](https://github.com/user-attachments/assets/5ba4fdb6-17c7-4188-98f8-1d9bea304335)
+![image](https://github.com/user-attachments/assets/35c27a0c-fac1-4053-928a-796ed3907a76)
+![image](https://github.com/user-attachments/assets/e5a2b7be-dfc7-44cb-b506-c87d2893f2f3)
+![image](https://github.com/user-attachments/assets/3cdc5163-0868-4b34-9267-6027cd49736a)
+
 
 ## The Event
 We'll keep you updated with photos of our first event in August, as well as of our second event in October!

@@ -10,6 +10,7 @@ html {
   height: 100%;
   background: linear-gradient(180deg, #d8b8e5, #fbc2eb);
   background-size: cover; 
+  overflow-x: hidden;
 }
 
 body {

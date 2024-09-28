@@ -1,152 +1,171 @@
-<!-- 
-things that could be added:
-- boxes around workshops, pics
-- clouds parting
-- previous events
-- instagram/website
--->
-
 <!DOCTYPE html>
-<html>
-  
-<!--linking stylesheets-->
+<html lang="en">
 <head>
-  <link rel="stylesheet" href="style.css" />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Iceland" />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu"
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Celestial Hackathon</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Iceland">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu">
 </head>
 
-<!--top logo-->
-  <img src="https://cloud-fg4nhlbaa-hack-club-bot.vercel.app/0hack-club-logo.png" class="hackclub-logo">
-
-<!--nav bar-->
-  <ul>
-    <li><a href ="#about">About</a></li>
-    <li><a href = "#get-involved">Get Involved</a></li>
-    <li><a href = "">Hack Club</a></li>
-  </ul>
-  
-<!--text... here we go!-->
 <body>
-  
-  <div class="div1">
-    <div class="header1">
-      <h1> Welcome to <strong>Celestial</strong> </h1>
+
+  <!-- Navbar -->
+  <nav>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#get-involved">Get Involved</a></li>
+      <li><a href="#events-schedule">Event Schedule</a></li>
+      <li><a href="https://hackclub.com/">Hack Club</a></li>
+    </ul>
+    <div class="hackclub-logo">
+      <img src="https://cloud-fg4nhlbaa-hack-club-bot.vercel.app/0hack-club-logo.png" alt="Hack Club">
     </div>
-  </div>
-  <img src="https://cloud-gbkmzn8ay-hack-club-bot.vercel.app/0untitled_artwork_2.png" class="headImage">
-  <h3>Celestial is Toronto's Hackathon for Girls and Non-Binary Youth!</h3>
-  </div>
+  </nav>
 
-  <p>Introducing the first international Days of Service event! We hope to inspire girls and non-binary 
-    <a id="about"></a>
-    youth to dream bigger and conquer the world of Computer Science... Join us in Toronto!</p>
-
-  <h2>What is Celestial?</h2>
-  <p> Celestial is a hackathon - you might have heard this term before! A hackathon is a social coding event - in other words, an event where participants work together on coding projects! Celestial is focused on teaching girls, young women, and non-binary youth - these groups are underrepresented in the tech industry, and we aim to make this field more accessible to them. </p>
-  <p> Celestial is a two-part event: the first part, in collaboration with <strong>Power to Girls</strong>, will take place in late August, 2024! The second part will take place in October (with a more spooky theme)! </p>
-  <!--idea: hover over spooky and the website changes theme-->
-  <p>Celestial is part of <a href="https://daysofservice.hackclub.com/">Days of Service</a>, a program that has held similar educational hackathons across the United States! This is our first Canadian event, but we're hoping to host many more both in Canada and internationally.
-  </p>
-
-  <h2>What are we going to do at Celestial?</h2>
-  <p>Our talented team is working hard on Celestial's workshops. You'll have the chance to choose one of the workshops, go through a step-by-step tutorial of the technology, then put your own spin on it! In August, our workshops are going to be printed circuit boards (PCBs) and 3D modelling. Both are exciting opportunities to learn about emerging hardware and software.</p>
-
-  <h2>What is the day going to look like?</h2>
-  <p>Here's the schedule for our August event:</p>
-  <table>
-    <tr>
-      <th>Time</th>
-      <th>Event</th>
-      <th>Description</th>
-    </tr>
-    <tr>
-      <td>9:00 - 10:00</td>
-      <td>Opening Ceremony</td>
-      <td>Learn about what we'll be doing throughout the day, choose your track, and do some fun icebreakers!</td>
-    </tr>
-    <tr>
-      <td>10:00 - 11:00</td>
-      <td>Workshops: PCB or 3D Modelling</td>
-      <td>Get started with your workshop! Our workshop leads will walk you through a step-by-step tutorial.</td>
-    </tr>
-    <tr>
-      <td>11:00 - 11:30</td>
-      <td>Break</td>
-      <td>Rest, recharge, and get ready to get creative!</td>
-    </tr>
-    <tr>
-      <td>11:30 - 12:30</td>
-      <td>Workshop or Project Time</td>
-      <td>Continue going through the workshop or start to build your own project.</td>
-    </tr>
-    <tr>
-      <td>12:30 - 1:30</td>
-      <td>Break</td>
-      <td>Lunch time.</td>
-    </tr>
-    <tr>
-      <td>1:30 - 2:30</td>
-      <td>Project Time</td>
-      <td>Keep working on your projects and get them ready for the showcase!</td>
-    </tr>
-    <tr>
-      <td>2:30 - 3:00</td>
-      <td>Break</td>
-      <td>Get excited to show off what you made!</td>
-    </tr>
-    <tr>
-      <td>3:00 - 4:00</td>
-      <td>Workshop or Project Time</td>
-      <td>Add your finishing touches to your project or explore the other workshop!</td>
-    </tr>
-    <tr>
-      <td>4:00 - 4:30</td>
-      <td>Closing Ceremony</td>
-      <td>Celebrate what you've learned and show off your project! We'll wrap up for the day, then learn about opportunities to keep coding.</td>
-    </tr>
-  </table>
-  <p>A run of day for our October event (scheduled for October 19, 2024) will be available soon with even more of our exciting workshops!</p>
+  <!-- Top Section with Celestial Logo and Welcome Message -->
+  <header>
+    <div class="celestial-logo-container">
+      <img src="https://cloud-gbkmzn8ay-hack-club-bot.vercel.app/0untitled_artwork_2.png" alt="Celestial Logo" class="celestial-logo">
+    </div>
+    <div class="header-text">
+      <h1>Welcome to <strong>Celestial!</strong> 💫</h1>
+      <h3 id="about">Toronto's Hackathon for Girls and Non-Binary Youth</h3>
+    </div>
+  </header>
   
-  <h2>Where are when is this taking place?</h2>
-  <p>In August, in collaboration with Power to Girls, our event is going to be held on August 26, 2024, from 9 AM to 3 PM! It'll be at the <a href="https://www.google.com/maps/place/Rexdale+Community+Hub/@43.7465073,-79.5841059,17z/data=!3m1!4b1!4m6!3m5!1s0x882b3a93185e834f:0x66ceb591580e1f0!8m2!3d43.7465035!4d-79.581531!16s%2Fg%2F11b6c60fb7?entry=ttu"> Rexdale Community Hub</a> in Toronto, Ontario!</p>
-  <p>Then, on October 19th, Celestial will be taking place at the Shopify Toronto office!</p>
-  
-  <h2>More about our workshops...</h2>
-  <p>Our <strong>PCB (printed circuit board) workshop</strong> will teach you the basics of PCBs, the skeleton of most electronics! We'll go through how to design and test PCBs, then create a working PCB flashlight. You'll even have the opportunity to learn about how you can get one produced to take home!</p>
-  <p>Our <strong>3D modelling workshop</strong> will teach you about creating your own 3D designs using Spline! You'll have a chance to explore the software and create your own digital designs - get creative!</p>
-  
-  <h2>Previous events!</h2>
-  <p>We've hosted plenty of amazing events in the past! Many of these events have occured across America in New York, Chicago, Seattle, Texas, and more! Here's a couple pictures of what we love to do.</p>
-  <p>Here's Solstice in Chicago, IL!</p>
-  <img src="https://cloud-6ef3v4tky-hack-club-bot.vercel.app/0image.png" class="img1">
-  <img src="https://cloud-6ef3v4tky-hack-club-bot.vercel.app/1image.png" class="img1">
-  <p>Here's Oasis in Austin, TX!</p>
-  <img src="https://cloud-6ef3v4tky-hack-club-bot.vercel.app/2image.png" class="img1">
-  <img src="https://cloud-6ef3v4tky-hack-club-bot.vercel.app/3image.png" class="img1">
-  <p>Here's Evergreen in Seattle, WA!</p>
-  <img src="https://cloud-6ef3v4tky-hack-club-bot.vercel.app/4image.png" class="img1">
-  <img src="https://cloud-6ef3v4tky-hack-club-bot.vercel.app/5image.png" class="img1">
 
-  <a id="get-involved"></a>
-  <h2>How can I get involved?</h2>
-    <p>Join us! To sign up to attend Celestial, visit <a href="https://airtable.com/app0mGghjGQerElZG/shryYMH5B8ISvbGPg"> this link!</a></p>
-    <p>Or, if you want to join the organizing team, send us a <a href="mailto:celestial.hackathon@gmail.com"> message</a>. We'll be in touch!</p>
+  <section class="about-section">
+    <div class="text-container">
+      <h2 id="events-schedule">What is <em>Celestial?</em></h2>
+      <p>Celestial is a hackathon focused on empowering girls and non-binary youth by introducing them to Computer Science. Join us this <em>October 19th @ <a href="https://www.shopify.com/news/shopify-opens-new-office-in-toronto-with-plans-to-double-local-workforce-by-2022">Shopify, Toronto</a></em> in collaboration with <strong>Power to Girls</strong>.</p>
+    </div>
+  </section>
 
+  <!-- Schedule Section -->
+  <section class="schedule-section">
+    <h2>What is the Day Going to Look Like?</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>Event</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>9:00 - 10:00</td>
+          <td>Opening Ceremony</td>
+          <td>Welcome, icebreakers, and track selection.</td>
+        </tr>
+        <tr>
+          <td>10:00 - 11:00</td>
+          <td>Workshops</td>
+          <td>Choose between PCB or 3D Modelling.</td>
+        </tr>
+        <tr>
+          <td>11:00 - 11:30</td>
+          <td>Break</td>
+          <td>Relax and recharge.</td>
+        </tr>
+        <tr>
+          <td>11:30 - 12:30</td>
+          <td>Workshop or Project Time</td>
+          <td>Continue learning or start creating.</td>
+        </tr>
+        <tr>
+          <td>12:30 - 1:30</td>
+          <td>Lunch Break</td>
+          <td>Enjoy lunch with fellow participants.</td>
+        </tr>
+        <tr>
+          <td>1:30 - 4:00</td>
+          <td>Project Time</td>
+          <td>Complete and polish your projects for the showcase.</td>
+        </tr>
+        <tr>
+          <td>4:00 - 4:30</td>
+          <td>Closing Ceremony</td>
+          <td>Celebrate and share your work!</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
 
-  <h2>Have another question?</h2>
-    <p>Reach out to us! Our email is <a href="mailto:celestial.hackathon@gmail.com"> celestial.hackathon@gmail.com</a>!</p>
+  <!-- Previous Events Section -->
+  <section class="events-section">
+    <h2>Previous Events</h2>
+    <div class="events-gallery">
+      <div class="event-item">
+        <h4>Solstice - Chicago, IL</h4>
+        <img src="https://cloud-6ef3v4tky-hack-club-bot.vercel.app/0image.png" alt="Solstice Event">
+      </div>
+      <div class="event-item">
+        <h4>Oasis - Austin, TX</h4>
+        <img src="https://cloud-6ef3v4tky-hack-club-bot.vercel.app/2image.png" alt="Oasis Event">
+      </div>
+      <div class="event-item">
+        <h4>Evergreen - Seattle, WA</h4>
+        <img src="https://cloud-6ef3v4tky-hack-club-bot.vercel.app/4image.png" alt="Evergreen Event">
+      </div>
+    </div>
+  </section>
 
-  
+  <!-- Get Involved Section -->
+  <section class="get-involved-section">
+    <h2 id="get-involved">How Can I Get Involved?</h2>
+    <p id="sign-up">Sign up for Celestial <a href="https://airtable.com/app0mGghjGQerElZG/shryYMH5B8ISvbGPg">here</a> or join the organizing team by sending us a <a href="mailto:celestial.hackathon@gmail.com">message</a>.</p>
+    <h2>Have another question?</h2>
+    <p>Reach out to us! Our email is <a href="mailto:celestial.hackathon@gmail.com"> celestial.hackathon@gmail.com</a>!</p>  
+  </section>
+
+  <div class="cursor-alien">👾</div>
+
+  <script type="text/javascript">
+    const cursor = document.querySelector('.cursor-alien');
+    let lastX, lastY; // Variables to store the last cursor position
+
+    // Update the cursor position based on mouse movement
+    document.addEventListener('mousemove', function(e) {
+        lastX = e.clientX; // Store the last X position
+        lastY = e.clientY; // Store the last Y position
+        cursor.style.left = `${lastX}px`; // Update left position
+        cursor.style.top = `${lastY}px`; // Update top position
+    });
+
+    // Hide the cursor when scrolling
+    window.addEventListener('scroll', function() {
+        cursor.style.opacity = '0'; // Hide cursor during scroll
+    });
+
+    // Show the cursor again after scrolling stops and reset position
+    let scrollTimeout;
+    window.addEventListener('scroll', function() {
+        clearTimeout(scrollTimeout);
+        cursor.style.opacity = '0'; // Hide cursor during scroll
+        scrollTimeout = setTimeout(function() {
+            cursor.style.opacity = '1'; // Show cursor after scrolling stops
+            // Reset position to last known cursor coordinates
+            cursor.style.left = `${lastX}px`; // Reset left position
+            cursor.style.top = `${lastY}px`; // Reset top position
+        }, 100); // Adjust delay as needed
+    });
+
+  </script>
+
+</body>
+
   <!--footer-->
-<footer>
-  <p>made with</p>
-  <div class="heart">
-    <div class="beat"><p>💜</p></div>
-    <div class="thump"><p>💜</p></div>
-  </div> 
-  <p>from hack club!</p>
-</footer>
-  
+  <footer>
+    <p>made with</p>
+    <div class="heart">
+      <div class="beat"><p>💜</p></div>
+      <div class="thump"><p>💜</p></div>
+    </div> 
+    <p>from hack club!</p>
+  </footer>
+    
 </html>
 </DOCTYPE>

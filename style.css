@@ -10,6 +10,7 @@ html {
   height: 100%;
   background: linear-gradient(180deg, #d8b8e5, #fbc2eb);
   background-size: cover; 
+  overflow-x: hidden;
 }
 
 body {
@@ -27,7 +28,7 @@ body {
 
 /* Navbar Styling */
 nav {
-  background: linear-gradient(to bottom, #B5A6E5 0.5%, rgba(182, 166, 230, 0) 100%);
+  background: linear-gradient(to bottom, #B5A6E5 0.2%, rgba(182, 166, 230, 0) 100%);
   position: fixed;
   width: 100%;
   top: 0;
@@ -84,7 +85,7 @@ header {
 }
 
 .celestial-logo {
-  width: 800px; 
+  width: 725px; 
   max-width: 100%; /* Ensure logo is responsive */
   margin-bottom: 10px; 
   overflow: hidden;
@@ -108,10 +109,34 @@ h1 {
 
 h3 {
   margin-top: 20px; 
-  font-size: 1.5rem; /* Use rem for responsive sizing */
+  font-size: 1rem; /* Use rem for responsive sizing */
   opacity: 0; 
   animation: fadeIn 1.5s ease-in forwards; 
   animation-delay: 0.5s; 
+  margin-bottom: 1rem;
+}
+
+#about em {
+  color: #B5A6E5;
+  text-decoration: underline; 
+  text-decoration-style: wavy; 
+  text-decoration-thickness: 1px;
+}
+
+.header-text h2, .header-text a {
+  color: #B5A6E5;
+  margin-top: 20px;
+  font-size: 1.3rem; /* Use rem for responsive sizing */
+  opacity: 0;
+  animation: fadeIn 1.5s ease-in forwards;
+  animation-delay: 0.5s;
+  margin-bottom: 1rem;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 2px;
+}
+
+.header-text a:hover {
+  color: #fbc2eb;
 }
 
 .about-section a, .about-section em {
@@ -125,13 +150,18 @@ h3 {
   color: #fbc2eb;
 }
 
+.about-section h2 {
+  margin-bottom: 20px; 
+  font-size: 1.5rem;
+}
+
+.about-section p {
+  font-size: 1rem; 
+}
+
 /* Sections Styling */
 section {
   margin: 100px 0;
-}
-
-.about-section h2 {
-  margin-bottom: 15px;
 }
 
 .about-section p,
@@ -151,7 +181,6 @@ section {
 
 .schedule-section h2 {
   margin-bottom: 20px; 
-  font-size: 1.75rem; /* Use rem for responsive sizing */
 }
 
 .schedule-section table {
@@ -194,9 +223,15 @@ table {
   overflow-x: auto; /* Allow horizontal scrolling */
 }
 
+.events-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: -42px; 
+}
+
 .events-section {
   text-align: center; 
   padding: 20px; 
+  margin-top: 1px;
 }
 
 .events-gallery {
@@ -226,19 +261,56 @@ table {
   margin: 10px 0; 
 }
 
-.get-involved-section p {
-  margin-top: 20px;
+.faq-section h2 {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 2px;
+}
+.faq-section {
+  padding: 40px;
+  margin-top: -100px;
+  margin-bottom: 225px;
 }
 
-.get-involved-section a {
-  color: #FBA7BB; 
-  text-decoration: underline; 
-  text-decoration-style: wavy; 
+.faq-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.faq-card {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.faq-card h3 {
+  font-size: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.faq-card p {
+  font-size: 1rem;
+}
+
+.faq-card a {
+  color: #B5A6E5;
+  text-decoration: underline;
+  text-decoration-style: wavy;
   text-decoration-thickness: 2px;
 }
 
-.get-involved-section {
-  margin-bottom: 170px; 
+.faq-card a:hover {
+  color: #fbc2eb;
+}
+.faq-card:hover {
+  transform: translateY(-10px);
 }
 
 #sign-up {

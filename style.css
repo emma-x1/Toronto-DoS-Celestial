@@ -440,6 +440,10 @@ footer .socials a:hover {
     padding: 20px;
   }
 
+  .header-text h3 {
+    font-size: 1rem;
+  }
+
   .cursor-alien {
     display: none; 
   }

@@ -9,7 +9,7 @@ A big shoutout to Hack Club for supporting us through every step of the way, and
 | Username    | Role |
 | -------- | ------- |
 | [Emma Xing](https://github.com/emma-x1) | Co-Lead Organizer, Website Lead |
-| [Vivian Yuan]() | Co-Lead Organizer |
+| [Vivian Yuan](https://github.com/vvireless) | Co-Lead Organizer |
 | [Zenab Hassan]() | Hack Club's Creative Events Manager |
 | [Hannie Hipel]() | 3D Village Team Lead |
 | [Hajrah Siddiqui]() | PCB Team Lead |
@@ -17,15 +17,11 @@ A big shoutout to Hack Club for supporting us through every step of the way, and
 | [Ekveer Cheema]() | PCB Team Member, Film/Social Media Lead |
 | [Luning Wang]() | PCB Team Member, Marketing Lead |
 | [Nilgun Sarikaya]() | PCB Team Member |
+| [Dasha Morozova] | |
+| [Ruby Ke]| |
+| [Estella Gu]| |
 
 ## The Website
-Celestial's website is the first one I've ever created from scratch! I explored the basics of HTML and CSS, and learned about interesting features like creating animations and embedding links and images. 
 
 ## The Event
-We'll keep you updated with photos of our first event in August, as well as of our second event in October!
-
-## How You Can Use this Website!
-Feel free to take a look at what we've been up to - this site is deployed at https://emma-x1.github.io/Toronto-DoS-Celestial/.
-If you want to organize your own Days of Service account, reach out to Zenab at Hack Club (zenab@hackclub.com)!
-
 

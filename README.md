@@ -16,7 +16,7 @@ A big shoutout to Hack Club for supporting us through every step of the way, and
 | [Sohaila Ali]() | AI Trip Planner Team Lead |
 | [Ekveer Cheema]() | PCB Team Member, Film/Social Media Lead |
 | [Luning Wang]() | PCB Team Member, Marketing Lead |
-| [Nilgun Sarikaya]() | PCB Team Member |
+| [Nilgun Sarikaya]() | 3D Village Team Member |
 | [Dasha Morozova] | |
 | [Ruby Ke]| |
 | [Estella Gu]| |
@@ -24,4 +24,7 @@ A big shoutout to Hack Club for supporting us through every step of the way, and
 ## The Website
 
 ## The Event
+
+## Social Media
+Celestial was mainly promoted throught social media and instagram. Our aim was to maximize engagement, reach out to relevant communities, and drive participant registrations. We reached out to similar student groups and tech organizations to partner and increase visibility. 
 

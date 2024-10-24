@@ -25,7 +25,9 @@ A big shoutout to Hack Club for supporting us through every step of the way, and
 We hoped to reach as many girls as possible and inspire them to learn more about the field of tech. We were able to host 2 workshop streams and teach over 50 girls about tech and computer science, inspiring them to look into a career in tech. 
 We also wanted to empower members of our team to learn from established women in tech. We accomplished this by hosting our team dinner, where our organizers had a chance to network with women in leading startups and large tech companies such as Shopify and Github. We're incredibly grateful for all of their support, and for their role in showing us that there is so much possibility out there!
 
-## The Event
+## The Schedule
+![A look at our August schedule](https://cloud-o20lxiuo7-hack-club-bot.vercel.app/0screenshot_2024-10-24_at_10.10.35___am.png)
+
 
 ## Social Media
 Celestial was mainly promoted throught social media and Instagram. Our aim was to maximize engagement, reach out to relevant communities, and drive participant registrations. We reached out to similar student groups and tech organizations to partner and increase visibility. 

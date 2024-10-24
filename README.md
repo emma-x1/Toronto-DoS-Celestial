@@ -18,7 +18,7 @@ A big shoutout to Hack Club for supporting us through every step of the way, and
 | [Luning Wang]() | PCB Team Member, Marketing Lead |
 | [Nilgun Sarikaya]() | 3D Village Team Member |
 | [Dasha Morozova] | |
-| [Ruby Ke]| | Decor Lead, 3D Village Team Member |
+| [Ruby Ke]()| | Decor Lead, 3D Village Team Member |
 | [Estella Gu]| |
 
 ## The Website

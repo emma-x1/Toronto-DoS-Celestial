@@ -32,3 +32,8 @@ We also wanted to empower members of our team to learn from established women in
 ## Social Media
 Celestial was mainly promoted throught social media and Instagram. Our aim was to maximize engagement, reach out to relevant communities, and drive participant registrations. We reached out to similar student groups and tech organizations to partner and increase visibility. 
 
+## Additional Photos
+Here are some additional photos of our August and October events! 
+![Team photo at Celestial](https://cloud-98y1ubwgt-hack-club-bot.vercel.app/0img_4886.heic)
+![Our 3D modelling workshop](https://cloud-98y1ubwgt-hack-club-bot.vercel.app/1img_9768.heic)
+

@@ -18,7 +18,7 @@ A big shoutout to Hack Club for supporting us through every step of the way, and
 | [Luning Wang]() | PCB Team Member, Marketing Lead |
 | [Nilgun Sarikaya]() | 3D Village Team Member |
 | [Dasha Morozova] | |
-| [Ruby Ke]| |
+| [Ruby Ke]| | Decor Lead, 3D Village Team Member |
 | [Estella Gu]| |
 
 ## The Website
@@ -26,5 +26,5 @@ A big shoutout to Hack Club for supporting us through every step of the way, and
 ## The Event
 
 ## Social Media
-Celestial was mainly promoted throught social media and instagram. Our aim was to maximize engagement, reach out to relevant communities, and drive participant registrations. We reached out to similar student groups and tech organizations to partner and increase visibility. 
+Celestial was mainly promoted throught social media and Instagram. Our aim was to maximize engagement, reach out to relevant communities, and drive participant registrations. We reached out to similar student groups and tech organizations to partner and increase visibility. 
 

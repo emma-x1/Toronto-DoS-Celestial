@@ -14,7 +14,7 @@ A big shoutout to Hack Club for supporting us through every step of the way, and
 | [Hannie Hipel]() | 3D Village Team Lead, Merch/Design Lead |
 | [Hajrah Siddiqui]() | PCB Team Lead |
 | [Ekveer Cheema]() | PCB Team Member, Film/Social Media Lead |
-| [Luning Wang]() | PCB Team Member |
+| [Luning Wang]() | 3D Village Team Member |
 | [Nilgun Sarikaya]() | 3D Village Team Member |
 | [Dasha Morozova]() | PCB Team Member|
 | [Ruby Ke]()| | 3D Village Team Member, Decor Lead |

@@ -28,6 +28,13 @@ We also wanted to empower members of our team to learn from established women in
 ## The Schedule
 ![A look at our August schedule](https://cloud-o20lxiuo7-hack-club-bot.vercel.app/0screenshot_2024-10-24_at_10.10.35___am.png)
 
+## Our Workshops
+
+# PCB
+In this workshop, students learned the basics of printed circuit board design! They created a light with a battery, LED, resistor, and switch using a software EasyEDA. They also personalized their PCBs by outlining it different shapes. Attendees can receive a grant for their PCB using Hack Club's program [Onboard](https://github.com/hackclub/OnBoard).
+
+![Image from workshop](https://cloud-37y6tsj42-hack-club-bot.vercel.app/0pcbworkshopimg.png)
+
 
 ## Social Media
 Celestial was mainly promoted throught social media and Instagram. Our aim was to maximize engagement, reach out to relevant communities, and drive participant registrations. We reached out to similar student groups and tech organizations to partner and increase visibility. 

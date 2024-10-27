@@ -30,6 +30,11 @@ We also wanted to empower members of our team to learn from established women in
 
 ## Our Workshops
 
+#3D Village
+In this workshop, students learned the basics of 3D modelling within the application "Spline". They learned how to build the structure of the house and the ground that the house sits ontop of. They also learned to customize their houses by adding colours, trees, windows/doors, etc.
+
+![Image from workshop] ![IMG_3789](https://github.com/user-attachments/assets/db2f440f-e005-4cb1-9764-2e825d61cc3b)
+
 # PCB
 In this workshop, students learned the basics of printed circuit board design! They created a light with a battery, LED, resistor, and switch using a software EasyEDA. They also personalized their PCBs by outlining it different shapes. Attendees can receive a grant for their PCB using Hack Club's program [Onboard](https://github.com/hackclub/OnBoard).
 

@@ -19,7 +19,7 @@ A big shoutout to Hack Club for supporting us through every step of the way, and
 | [Dasha Morozova]() | PCB Team Member|
 | [Ruby Ke]() | 3D Village Team Member, Decor Lead |
 | [Estella Gu]()| PCB Team Member, Merch/Design Lead|
-| [Sohaila Ali]() |  |
+| [Sohaila Ali]() | Workshop Support |
 
 ## Our Goals
 We hoped to reach as many girls as possible and inspire them to learn more about the field of tech. We were able to host 2 workshop streams and teach over 50 girls about tech and computer science, inspiring them to look into a career in tech. 

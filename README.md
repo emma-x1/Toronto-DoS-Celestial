@@ -43,7 +43,7 @@ In this workshop, students learned the basics of printed circuit board design! T
 ## Dinner
 The night before the hackathon, we had an amazing dinner at Ahma that was attended by 10 STEM professionals and 10 Hack Clubbers. 
 
-We kicked off the dinner with icebreakers, where Hack Clubbers would move from table to table for each ice breaker question to get a new and insightful perspective from multiple industry professionals, along with some delicious food from elle's cuisine.
+We kicked off the dinner with icebreakers, where Hack Clubbers would move from table to table for each ice breaker question to get a new and insightful perspective from multiple industry professionals, along with some delicious food from elle's cuisine!
 
 ![Dinner photo](https://cloud-cze2wvbqd-hack-club-bot.vercel.app/0image.png)
 
